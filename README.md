@@ -35,7 +35,6 @@ Analyze sales data to identify:
 * Python
 * Pandas
 * SQL
-* Microsoft SQL Server (MSSQL)
 * Jupyter Notebook
 * Power BI
 * Matplotlib
@@ -122,14 +121,14 @@ The dashboard provides:
 ---
 ## 📊 Power BI Dashboard Preview
 
-### Sales Overview Dashboard
-![Sales Overview](screenshots/sales_overview_dashboard.png)
+### Performance Analysis Dashboard
+![Performance Analysis](screenshots/sales_overview_dashboard.png)
 
-### Regional Performance Dashboard
+### Revenue Scenarios Dashboard
 ![Regional Performance](screenshots/regional_performance_dashboard.png)
 
-### Customer & Profitability Dashboard
-![Customer Dashboard](screenshots/customer_profitability_dashboard.png)
+### Customer Segmentation Dashboard
+![Customer Segmentation Dashboard](screenshots/customer_profitability_dashboard.png)
 
 ## 📎 Author
 
