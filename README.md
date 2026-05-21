@@ -116,19 +116,19 @@ The dashboard provides:
 ---
 ## 📓 Notebook Output Visualizations
 
-![Notebook Output Visualizations](screenshots/monthly_sales_trend.png)
+![Notebook Output Visualizations]([screenshots/monthly_sales_trend.png](https://github.com/Chaandraa/usa-regional-sales-performance-analytics/blob/main/Notebook%20output.png))
 
 ---
 ## 📊 Power BI Dashboard Preview
 
 ### Performance Analysis Dashboard
-![Performance Analysis](screenshots/sales_overview_dashboard.png)
+![Performance Analysis]([screenshots/sales_overview_dashboard.png](https://github.com/Chaandraa/usa-regional-sales-performance-analytics/blob/main/Performance%20Analysis.png))
 
 ### Revenue Scenarios Dashboard
-![Regional Performance](screenshots/regional_performance_dashboard.png)
+![Regional Performance]([screenshots/regional_performance_dashboard.png](https://github.com/Chaandraa/usa-regional-sales-performance-analytics/blob/main/Revenue%20Scenarios.png))
 
 ### Customer Segmentation Dashboard
-![Customer Segmentation Dashboard](screenshots/customer_profitability_dashboard.png)
+![Customer Segmentation Dashboard]([screenshots/customer_profitability_dashboard.png](https://github.com/Chaandraa/usa-regional-sales-performance-analytics/blob/main/Customer%20Segmentation.png))
 
 ## 📎 Author
 
